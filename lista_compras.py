@@ -22,7 +22,6 @@ def verifica_despensa(item_desejado):
 
 
 item_desejado = input('Digite o item que você quer verificar: ')
- 
 
 verifica_despensa(item_desejado)
 
